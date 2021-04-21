@@ -1,2 +1,1 @@
-# myfont
-Operator Mono and Fira Code
+VS_Code_Font
