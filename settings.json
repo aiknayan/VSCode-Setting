@@ -1,7 +1,7 @@
 {
   // editor
   "editor.fontSize": 20,
-  "editor.fontFamily": "Fira Code, Operator Mono",
+  "editor.fontFamily": "Operator Mono SSm Lig",
   "editor.fontLigatures": true,
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
@@ -35,13 +35,15 @@
     "source.organizeImports": true
   },
   "eslint.alwaysShowStatus": true,
-  "prettier.disableLanguages": ["javascript", "javascriptreact"],
   //terminal
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontWeight": "normal",
-  "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
+  "terminal.integrated.fontFamily": "Operator Mono SSm Lig",
   "workbench.colorTheme": "Community Material Theme Darker High Contrast",
   "workbench.iconTheme": "vscode-icons",
+  //Native bracket matching
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
   // terminal customization
   "workbench.colorCustomizations": {
     "terminal.background": "#1D2021",
