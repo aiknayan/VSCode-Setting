@@ -42,7 +42,6 @@
   "workbench.colorTheme": "Community Material Theme Darker High Contrast",
   "workbench.iconTheme": "vscode-icons",
   //Native bracket matching
-  "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
   // terminal customization
   "workbench.colorCustomizations": {
